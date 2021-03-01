@@ -1,4 +1,4 @@
-# Modelagem-Termodin-mica-de-um-sistema
+# MODELAGEM_TERMODINAMICA_DE_UM_SISTEMA
 * Modelando um corpo em retorno de 0°C para temperatura ambiente, variando parâmetros de constituição do material e do líquido.
 * Projeto de primeiro semestre do curso de Engenharia no Insper, para a disciplina de Modelagem e Simulação de Mundo Físico.
 * Na análise, fora realizada uma validação experimental e teórica do modelo que constituíram de maneira bem próxima da realidade, a modelagem do sistema, baseado de uma caneca e um líquido retirados de um freezer a 0°C e analisado o tempo de retorno à temperatura ambiente.
