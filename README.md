@@ -1,4 +1,4 @@
-# MODELAGEM_TERMODINAMICA_DE_UM_SISTEMA
+# Modelagem Termodinâmica de um Sistema
 * Modelando um corpo em retorno de 0°C para temperatura ambiente, variando parâmetros de constituição do material e do líquido.
 * Para melhor vizualização do material, tal como o arquivo Notebook,relatório,dados e código em Wiring, clonar o repositório em seu computador.
 Digite em seu prompt de comando Git Bash:
